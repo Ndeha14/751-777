@@ -3,7 +3,7 @@
   "symbol": "Crunches",
   "description": "777 Crunches have invaded the laboratory. With their power, it is possible to make them evolve. Attributes and powers are to be earned throughout the adventure. On the program: Private sales with discounts up to 50%, Staking, customization and leveling mechanism, ...",
   "seller_fee_basis_points": 800,
-  "image": "770.png",
+  "image": "https://raw.githubusercontent.com/Ndeha14/751-777/main/770.png",
   "external_url": "",
   "edition": 770,
   "attributes": [
@@ -37,11 +37,11 @@
     },
     {
       "trait_type": "Crunch Level",
-      "value": "Level 0"
+      "value": "Level 1"
     },
     {
       "trait_type": "Luck power",
-      "value": "Level 0"
+      "value": "Level 1"
     },
     {
       "trait_type": "Strenght power",
@@ -59,7 +59,7 @@
   "properties": {
     "files": [
       {
-        "uri": "770.png",
+        "uri": "https://raw.githubusercontent.com/Ndeha14/751-777/main/770.png",
         "type": "image/png"
       }
     ],
